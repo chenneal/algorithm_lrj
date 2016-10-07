@@ -1,9 +1,7 @@
 // 大数阶乘算法，这个算法有个关键之处就是无论乘数是否超过10均可以使用普通的位乘法法则，进位carry很有可能超过10
 #include <iostream>
 #include <vector>
-
 using namespace std;
-
 int main()
 {
     int n;
